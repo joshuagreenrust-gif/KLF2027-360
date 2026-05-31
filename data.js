@@ -24,35 +24,35 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.9841443967196533,
-        "pitch": 0.01858809401791639,
-        "fov": 0.7973233852916025
+        "yaw": 0.05631172563215259,
+        "pitch": 0.00805531330198761,
+        "fov": 0.7710866903324815
       },
       "linkHotspots": [
         {
-          "yaw": 1.355632873356793,
-          "pitch": 0.13990656595109385,
+          "yaw": 1.3864845864149569,
+          "pitch": 0.1583596795148683,
           "rotation": 0,
-          "target": "1-11-german-pavillion"
+          "target": "1-11-german-pavilion"
         },
         {
-          "yaw": 1.6583290072092485,
-          "pitch": 0.032116967810386754,
-          "rotation": 0,
-          "target": "2-2-speaker-entry"
-        },
-        {
-          "yaw": -0.28603017201728775,
-          "pitch": 0.07157938352772675,
+          "yaw": -0.3400931477449767,
+          "pitch": 0.03498500720802511,
           "rotation": 0,
           "target": "23-21-pavillion"
+        },
+        {
+          "yaw": 1.57054909844772,
+          "pitch": 0.03602960045017056,
+          "rotation": 0,
+          "target": "2-2-speaker-entry"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-11-german-pavillion",
-      "name": "1.1-German Pavillion",
+      "id": "1-11-german-pavilion",
+      "name": "1.1-german pavilion",
       "levels": [
         {
           "tileSize": 256,
@@ -74,22 +74,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.08231525193979472,
+        "pitch": 0.015702396766252846,
+        "fov": 0.7529516260526694
       },
       "linkHotspots": [
         {
-          "yaw": 1.4840504640249303,
-          "pitch": 0.08823846319205586,
-          "rotation": 0,
-          "target": "2-2-speaker-entry"
-        },
-        {
-          "yaw": -1.3367788006343613,
-          "pitch": 0.058970945808709985,
+          "yaw": -1.2661533312754258,
+          "pitch": 0.06268240197802122,
           "rotation": 0,
           "target": "0-1-aksharam-entry"
+        },
+        {
+          "yaw": 1.6013311773469026,
+          "pitch": 0.08614447443368611,
+          "rotation": 0,
+          "target": "2-2-speaker-entry"
         }
       ],
       "infoHotspots": []
@@ -118,35 +118,35 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.09129414548893777,
-        "pitch": -0.009276336369508087,
-        "fov": 1.38217411905719
+        "yaw": 0.048981313963876616,
+        "pitch": 0.0029074897445617864,
+        "fov": 0.9892513201170058
       },
       "linkHotspots": [
         {
-          "yaw": 1.719621251589082,
-          "pitch": 0.049323695475049334,
+          "yaw": -1.0844823951706637,
+          "pitch": 0.08630071074282952,
           "rotation": 0,
-          "target": "3-21-light-house-front-"
+          "target": "1-11-german-pavilion"
         },
         {
-          "yaw": -0.9492274931228089,
-          "pitch": 0.16669288092501944,
-          "rotation": 0,
-          "target": "1-11-german-pavillion"
-        },
-        {
-          "yaw": -1.3383291952445848,
-          "pitch": 0.04222808392083621,
+          "yaw": -1.357119347805444,
+          "pitch": 0.02559722365227657,
           "rotation": 0,
           "target": "0-1-aksharam-entry"
+        },
+        {
+          "yaw": 1.6560654436280888,
+          "pitch": 0.06446878913471998,
+          "rotation": 0,
+          "target": "3-21-light-house"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-21-light-house-front-",
-      "name": "2.1-light house front ",
+      "id": "3-21-light-house",
+      "name": "2.1-Light House",
       "levels": [
         {
           "tileSize": 256,
@@ -168,22 +168,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.002534984172875454,
-        "pitch": -0.02823195818250568,
-        "fov": 1.0042050131364586
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.4131982088728083,
-          "pitch": 0.1009435033425845,
-          "rotation": 0,
-          "target": "4-3-klf-main-entry"
-        },
-        {
-          "yaw": -1.1034745559090826,
-          "pitch": 0.08045002130134549,
+          "yaw": -1.224799363201459,
+          "pitch": 0.07574415407504986,
           "rotation": 0,
           "target": "2-2-speaker-entry"
+        },
+        {
+          "yaw": 1.4278091798113888,
+          "pitch": 0.10347140307044178,
+          "rotation": 0,
+          "target": "4-3-klf-main-entry"
         }
       ],
       "infoHotspots": []
@@ -212,20 +212,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.005211881245710259,
-        "pitch": -0.011081980522202883,
-        "fov": 0.6993707418475067
+        "yaw": -0.004274031327888395,
+        "pitch": -0.02597848637591582,
+        "fov": 0.6977772274897653
       },
       "linkHotspots": [
         {
           "yaw": -1.3107587102418439,
           "pitch": 0.10696516553216995,
           "rotation": 0,
-          "target": "3-21-light-house-front-"
+          "target": "3-21-light-house"
         },
         {
-          "yaw": -0.034694693099860174,
-          "pitch": 0.09418436117388396,
+          "yaw": -0.03591768511867954,
+          "pitch": 0.10744471913373133,
           "rotation": 0,
           "target": "5-4-registration"
         },
@@ -240,51 +240,7 @@ var APP_DATA = {
     },
     {
       "id": "5-4-registration",
-      "name": "4-Registration",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.05242434273247554,
-        "pitch": -0.025973741834635078,
-        "fov": 1.38217411905719
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.0939401256744592,
-          "pitch": 0.08813013375541345,
-          "rotation": 0,
-          "target": "6-5-central-spaceopen-stage"
-        },
-        {
-          "yaw": 3.030163396000253,
-          "pitch": 0.09698832473096353,
-          "rotation": 0,
-          "target": "4-3-klf-main-entry"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "6-5-central-spaceopen-stage",
-      "name": "5-Central Space/open stage",
+      "name": "4-registration",
       "levels": [
         {
           "tileSize": 256,
@@ -312,41 +268,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.062192312927766,
-          "pitch": 0.09462503299493363,
+          "yaw": 2.9810196628316064,
+          "pitch": 0.09967409488204382,
           "rotation": 0,
-          "target": "5-4-registration"
+          "target": "4-3-klf-main-entry"
         },
         {
-          "yaw": -1.7775129168781945,
-          "pitch": 0.06883832073768659,
+          "yaw": -0.14668506702104978,
+          "pitch": 0.06794850773719929,
           "rotation": 0,
-          "target": "7-6-thoolika-front"
-        },
-        {
-          "yaw": -0.9718451705689528,
-          "pitch": 0.05200128085705913,
-          "rotation": 0,
-          "target": "8-7-thoolika-side"
-        },
-        {
-          "yaw": 0.15098476805705197,
-          "pitch": 0.012245387168972499,
-          "rotation": 0,
-          "target": "9-71-open-stage"
-        },
-        {
-          "yaw": 1.4855185171326433,
-          "pitch": 0.041538787584586956,
-          "rotation": 0,
-          "target": "10-8-surf-club-front"
+          "target": "6-5-central-gathering-spaceopen-stage"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "7-6-thoolika-front",
-      "name": "6-Thoolika front",
+      "id": "6-5-central-gathering-spaceopen-stage",
+      "name": "5-Central gathering spaceopen stage",
       "levels": [
         {
           "tileSize": 256,
@@ -368,28 +306,96 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.327257973826871,
-        "pitch": 0.010405253928512437,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.7143342706356837,
-          "pitch": 0.07892894081519408,
+          "yaw": 3.082132064566818,
+          "pitch": 0.06554254900487422,
           "rotation": 0,
-          "target": "6-5-central-spaceopen-stage"
+          "target": "5-4-registration"
         },
         {
-          "yaw": -2.740794321383495,
-          "pitch": 0.017345620420622154,
+          "yaw": -1.9607441076830376,
+          "pitch": 0.026111400118304928,
+          "rotation": 0,
+          "target": "7-6-thoolika-front-light-house-netry"
+        },
+        {
+          "yaw": 1.5457182810087238,
+          "pitch": 0.02389444360837345,
+          "rotation": 0,
+          "target": "10-8-surf-club-front"
+        },
+        {
+          "yaw": 0.0992870736052005,
+          "pitch": 0.031880210096520756,
           "rotation": 0,
           "target": "9-71-open-stage"
         },
         {
-          "yaw": 2.358528114365315,
-          "pitch": 0.032727888235628555,
+          "yaw": -1.1138310985057487,
+          "pitch": 0.03728316145010169,
           "rotation": 0,
           "target": "8-7-thoolika-side"
+        },
+        {
+          "yaw": 0.8425223845578778,
+          "pitch": 0.036572092325076966,
+          "rotation": 0,
+          "target": "11-9-kadha-side"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-6-thoolika-front-light-house-netry",
+      "name": "6-Thoolika front light house netry",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7621438604052067,
+          "pitch": 0.02537877837102087,
+          "rotation": 0,
+          "target": "6-5-central-gathering-spaceopen-stage"
+        },
+        {
+          "yaw": 2.3650392431431566,
+          "pitch": 0.04650601944004151,
+          "rotation": 0,
+          "target": "8-7-thoolika-side"
+        },
+        {
+          "yaw": -2.773000227609627,
+          "pitch": 0.008993636517157455,
+          "rotation": 0,
+          "target": "9-71-open-stage"
         }
       ],
       "infoHotspots": []
@@ -424,28 +430,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.9469321451895496,
-          "pitch": 0.05100143481767283,
+          "yaw": -1.9036835052014371,
+          "pitch": 0.044227666390597165,
           "rotation": 0,
-          "target": "7-6-thoolika-front"
+          "target": "7-6-thoolika-front-light-house-netry"
         },
         {
-          "yaw": 2.973028838657676,
-          "pitch": 0.05211453592635884,
-          "rotation": 0,
-          "target": "9-71-open-stage"
-        },
-        {
-          "yaw": 1.1738135451114058,
-          "pitch": 0.05647057387448484,
+          "yaw": 0.8851308876450155,
+          "pitch": 0.00936596833846437,
           "rotation": 0,
           "target": "22-20-book-shop-1-rear"
         },
         {
-          "yaw": -2.5315946964410863,
-          "pitch": 0.03582098093769304,
+          "yaw": -2.516023509700002,
+          "pitch": 0.0037124842704781003,
           "rotation": 0,
-          "target": "6-5-central-spaceopen-stage"
+          "target": "6-5-central-gathering-spaceopen-stage"
+        },
+        {
+          "yaw": 2.9801516835120365,
+          "pitch": 0.03597255994779225,
+          "rotation": 0,
+          "target": "9-71-open-stage"
         }
       ],
       "infoHotspots": []
@@ -474,46 +480,40 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.15305154093815965,
-        "pitch": -0.03524951321678671,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.1550911013988614,
-          "pitch": 0.036770969927136576,
+          "yaw": 0.14097003854459444,
+          "pitch": 0.03231285988372612,
           "rotation": 0,
-          "target": "8-7-thoolika-side"
+          "target": "6-5-central-gathering-spaceopen-stage"
         },
         {
-          "yaw": 0.6840531792461988,
-          "pitch": 0.020781403030241563,
+          "yaw": 0.7614008640684009,
+          "pitch": 0.027486005605133812,
           "rotation": 0,
-          "target": "7-6-thoolika-front"
+          "target": "7-6-thoolika-front-light-house-netry"
         },
         {
-          "yaw": 0.1081305522476228,
-          "pitch": 0.0457465574343523,
+          "yaw": 2.0401657497120524,
+          "pitch": 0.022651579051759185,
           "rotation": 0,
-          "target": "6-5-central-spaceopen-stage"
+          "target": "22-20-book-shop-1-rear"
         },
         {
-          "yaw": -0.5225655695307907,
-          "pitch": 0.07844109744450556,
-          "rotation": 0,
-          "target": "10-8-surf-club-front"
-        },
-        {
-          "yaw": -1.0748916044082542,
-          "pitch": 0.08458841316974741,
+          "yaw": -1.2881649448533778,
+          "pitch": 0.06698559378659041,
           "rotation": 0,
           "target": "11-9-kadha-side"
         },
         {
-          "yaw": 2.268006537668832,
-          "pitch": 0.057818943342869744,
+          "yaw": -0.5787301350032052,
+          "pitch": 0.04839516859209425,
           "rotation": 0,
-          "target": "22-20-book-shop-1-rear"
+          "target": "10-8-surf-club-front"
         }
       ],
       "infoHotspots": []
@@ -542,34 +542,34 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.07115871618333358,
-        "pitch": -0.018552672739016174,
-        "fov": 0.9020311483842998
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.1462769102561658,
-          "pitch": 0.097174187538009,
+          "yaw": 2.8111790795208567,
+          "pitch": 0.0935696451676602,
           "rotation": 0,
-          "target": "11-9-kadha-side"
+          "target": "6-5-central-gathering-spaceopen-stage"
         },
         {
-          "yaw": -0.1233713420092073,
-          "pitch": 0.026161781617254576,
-          "rotation": 0,
-          "target": "12-10-festival-book-shop"
-        },
-        {
-          "yaw": -1.9927078095516606,
-          "pitch": 0.053914542253446385,
+          "yaw": -1.9917961107978321,
+          "pitch": 0.04624889499948637,
           "rotation": 0,
           "target": "9-71-open-stage"
         },
         {
-          "yaw": 2.941821303969574,
-          "pitch": 0.09283379129258762,
+          "yaw": -1.139735911194725,
+          "pitch": 0.07790403638569288,
           "rotation": 0,
-          "target": "6-5-central-spaceopen-stage"
+          "target": "11-9-kadha-side"
+        },
+        {
+          "yaw": -0.13902535938129823,
+          "pitch": 0.06876240041270343,
+          "rotation": 0,
+          "target": "12-10-festival-book-shop"
         }
       ],
       "infoHotspots": []
@@ -598,22 +598,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.7964044301438111,
-        "pitch": 0.005724391529710715,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 2.5128396549913745,
-          "pitch": 0.047971133008914535,
+          "yaw": 0.2756237120853804,
+          "pitch": 0.01385361301925414,
           "rotation": 0,
-          "target": "9-71-open-stage"
+          "target": "6-5-central-gathering-spaceopen-stage"
         },
         {
-          "yaw": 1.1515220607154433,
-          "pitch": 0.043644152223654586,
+          "yaw": -0.13908737172136298,
+          "pitch": 0.03937267061219174,
           "rotation": 0,
           "target": "10-8-surf-club-front"
+        },
+        {
+          "yaw": 0.9981224104664683,
+          "pitch": 0.027544984721629362,
+          "rotation": 0,
+          "target": "9-71-open-stage"
         }
       ],
       "infoHotspots": []
@@ -642,28 +648,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4328631063642145,
-        "pitch": 0.01018497636276372,
-        "fov": 1.1269861044733218
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.8052112563340916,
-          "pitch": 0.026172425682593925,
+          "yaw": -2.9529251783832553,
+          "pitch": 0.03869379140927798,
+          "rotation": 0,
+          "target": "10-8-surf-club-front"
+        },
+        {
+          "yaw": 0.816905200765925,
+          "pitch": 0.010228226348656833,
           "rotation": 0,
           "target": "13-11-parking-entry"
         },
         {
-          "yaw": -0.18924938259404556,
-          "pitch": 0.00482806621817744,
+          "yaw": -0.19874422339751874,
+          "pitch": 0.030681002955409653,
           "rotation": 0,
           "target": "14-12-book-shop-front"
-        },
-        {
-          "yaw": -3.113063746828434,
-          "pitch": 0.009510935742309101,
-          "rotation": 0,
-          "target": "10-8-surf-club-front"
         }
       ],
       "infoHotspots": []
@@ -697,12 +703,6 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
-        {
-          "yaw": 0.07114625324138046,
-          "pitch": 0.027722456957352648,
-          "rotation": 0,
-          "target": "14-12-book-shop-front"
-        },
         {
           "yaw": -0.6948231912856038,
           "pitch": 0.03136435538400839,
@@ -748,34 +748,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6452041010198437,
-          "pitch": 0.08227723866614589,
+          "yaw": 2.805315740286783,
+          "pitch": 0.04296141957699717,
           "rotation": 0,
           "target": "12-10-festival-book-shop"
         },
         {
-          "yaw": 1.7686686174610813,
-          "pitch": -0.03165976988043617,
+          "yaw": 2.035289573368953,
+          "pitch": 0.036783210553227974,
           "rotation": 0,
           "target": "13-11-parking-entry"
         },
         {
-          "yaw": -0.2192640467917908,
-          "pitch": 0.05742387373355484,
+          "yaw": -0.1014273943838937,
+          "pitch": 0.025909580539957844,
           "rotation": 0,
           "target": "15-13-vakku-front"
         },
         {
-          "yaw": 0.48096427276012754,
-          "pitch": 0.052918997027289194,
+          "yaw": -2.0847446150430713,
+          "pitch": 0.04232974698392056,
           "rotation": 0,
-          "target": "16-14-mango"
-        },
-        {
-          "yaw": -2.014608531997464,
-          "pitch": 0.057634350898309705,
-          "rotation": 0,
-          "target": "21-19-festival-book-shop-rear-side"
+          "target": "21-19-kadha-rear-side"
         }
       ],
       "infoHotspots": []
@@ -804,26 +798,26 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.434915123523389,
-        "pitch": -0.044526414573644146,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -2.0109831050156313,
-          "pitch": 0.042087166603529624,
-          "rotation": 0,
-          "target": "14-12-book-shop-front"
-        },
-        {
-          "yaw": 0.9701155329843854,
-          "pitch": 0.08166627528096804,
+          "yaw": 0.6746261855026461,
+          "pitch": 0.005580527851700268,
           "rotation": 0,
           "target": "18-16--ezhuthola-side"
         },
         {
-          "yaw": 1.8711608432028815,
-          "pitch": 0.08480585797403961,
+          "yaw": -2.012669495448943,
+          "pitch": 0.057310425470515014,
+          "rotation": 0,
+          "target": "14-12-book-shop-front"
+        },
+        {
+          "yaw": 1.8941693605091388,
+          "pitch": -0.03314844142756357,
           "rotation": 0,
           "target": "16-14-mango"
         }
@@ -854,22 +848,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.23335763765030926,
-        "pitch": 0.036822248290649284,
-        "fov": 0.9459508612597717
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.0735838049491147,
-          "pitch": 0.24879139917547377,
+          "yaw": 0.4668311396566054,
+          "pitch": 0.08422171452175142,
           "rotation": 0,
           "target": "15-13-vakku-front"
         },
         {
-          "yaw": 2.835439917336453,
-          "pitch": 0.07468296925963358,
+          "yaw": 2.8437698893564125,
+          "pitch": 0.07412471250072805,
           "rotation": 0,
           "target": "17-15-grandham"
+        },
+        {
+          "yaw": 1.3109016669351252,
+          "pitch": 0.06227653434176261,
+          "rotation": 0,
+          "target": "15-13-vakku-front"
         }
       ],
       "infoHotspots": []
@@ -898,20 +898,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.010545538944755961,
-        "pitch": -0.006057602737911338,
-        "fov": 1.0024023943468374
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.4349764606795343,
-          "pitch": 0.11239013206709281,
+          "yaw": -0.3743484119811846,
+          "pitch": 0.034389570243806844,
           "rotation": 0,
           "target": "18-16--ezhuthola-side"
         },
         {
-          "yaw": -1.9189768476076132,
-          "pitch": 0.053298335947967956,
+          "yaw": -1.8948451328526765,
+          "pitch": 0.041304754993905846,
           "rotation": 0,
           "target": "16-14-mango"
         }
@@ -948,22 +948,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.3514303299195394,
-          "pitch": -0.0019447977553461726,
+          "yaw": -0.3374335693421635,
+          "pitch": 0.041882538577223016,
           "rotation": 0,
           "target": "15-13-vakku-front"
         },
         {
-          "yaw": -1.707653623691515,
-          "pitch": -0.09437855585107968,
-          "rotation": 0,
-          "target": "16-14-mango"
-        },
-        {
-          "yaw": 1.7637218942231465,
-          "pitch": 0.03765432003874025,
+          "yaw": 1.7469272809322636,
+          "pitch": 0.12037664727569108,
           "rotation": 0,
           "target": "19-17-ezhuthola-front"
+        },
+        {
+          "yaw": -1.9243500320072684,
+          "pitch": -0.01455164784120555,
+          "rotation": 0,
+          "target": "16-14-mango"
         }
       ],
       "infoHotspots": []
@@ -998,22 +998,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.04257998261495,
-          "pitch": 0.10713549762189523,
-          "rotation": 0,
-          "target": "20-18--boat-landing"
-        },
-        {
-          "yaw": -0.09863822022441582,
-          "pitch": 0.0009290791617946326,
-          "rotation": 0,
-          "target": "16-14-mango"
-        },
-        {
-          "yaw": 0.49118230672513263,
-          "pitch": 0.06358720912114535,
+          "yaw": 0.27031983885451716,
+          "pitch": 0.1731925917847157,
           "rotation": 0,
           "target": "18-16--ezhuthola-side"
+        },
+        {
+          "yaw": -3.1365568039921072,
+          "pitch": 0.05602736871718683,
+          "rotation": 0,
+          "target": "20-18--boat-landing"
         }
       ],
       "infoHotspots": []
@@ -1048,23 +1042,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3956815376181204,
-          "pitch": 0.024384484287788055,
+          "yaw": -1.3850527293926724,
+          "pitch": 0.02872463213460641,
           "rotation": 0,
           "target": "19-17-ezhuthola-front"
         },
         {
-          "yaw": -0.34532060570205303,
-          "pitch": 0.10409667488832319,
+          "yaw": -0.3992513057346425,
+          "pitch": 0.012274940742026175,
           "rotation": 0,
-          "target": "21-19-festival-book-shop-rear-side"
+          "target": "21-19-kadha-rear-side"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "21-19-festival-book-shop-rear-side",
-      "name": "19-festival book shop rear side",
+      "id": "21-19-kadha-rear-side",
+      "name": "19-kadha rear side",
       "levels": [
         {
           "tileSize": 256,
@@ -1092,22 +1086,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.11224245135406,
-          "pitch": 0.04875636072050327,
-          "rotation": 0,
-          "target": "20-18--boat-landing"
-        },
-        {
-          "yaw": -0.060373539477126315,
-          "pitch": 0.04904433862024149,
+          "yaw": -0.03994915464128823,
+          "pitch": 0.033269813550891314,
           "rotation": 0,
           "target": "14-12-book-shop-front"
         },
         {
-          "yaw": 1.2933635748886196,
-          "pitch": 0.05136917519660855,
+          "yaw": 1.3247269116988605,
+          "pitch": 0.04863425257995324,
           "rotation": 0,
           "target": "22-20-book-shop-1-rear"
+        },
+        {
+          "yaw": -2.0652320060007163,
+          "pitch": 0.045688305095204385,
+          "rotation": 0,
+          "target": "20-18--boat-landing"
         }
       ],
       "infoHotspots": []
@@ -1142,28 +1136,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.0739474827455666,
-          "pitch": 0.05467062303783621,
-          "rotation": 0,
-          "target": "23-21-pavillion"
-        },
-        {
-          "yaw": 0.10240695156652535,
-          "pitch": 0.013388906295178415,
+          "yaw": 0.020877429163558503,
+          "pitch": 0.02504562078846817,
           "rotation": 0,
           "target": "8-7-thoolika-side"
         },
         {
-          "yaw": -0.8142343647334442,
-          "pitch": 0.020587081415866848,
+          "yaw": -0.8602378591847355,
+          "pitch": 0.019282661176101,
           "rotation": 0,
           "target": "9-71-open-stage"
         },
         {
-          "yaw": -1.4855932552309419,
-          "pitch": 0.016275721727506465,
+          "yaw": -1.4043140336004178,
+          "pitch": 0.03311150239085947,
           "rotation": 0,
-          "target": "21-19-festival-book-shop-rear-side"
+          "target": "21-19-kadha-rear-side"
+        },
+        {
+          "yaw": 1.1224500053059252,
+          "pitch": 0.031257756636605905,
+          "rotation": 0,
+          "target": "23-21-pavillion"
         }
       ],
       "infoHotspots": []
@@ -1192,22 +1186,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.3652053669216873,
-        "pitch": 0.034204019116241824,
-        "fov": 0.9672643280254211
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.9291209569610288,
-          "pitch": -0.006926225249550555,
-          "rotation": 0,
-          "target": "0-1-aksharam-entry"
-        },
-        {
-          "yaw": -1.312178073141535,
-          "pitch": 0.014181070724557543,
+          "yaw": -1.2692177504941462,
+          "pitch": 0.04627467680142772,
           "rotation": 0,
           "target": "22-20-book-shop-1-rear"
+        },
+        {
+          "yaw": 0.9171199349852852,
+          "pitch": -0.027431374452756785,
+          "rotation": 0,
+          "target": "0-1-aksharam-entry"
         }
       ],
       "infoHotspots": []
